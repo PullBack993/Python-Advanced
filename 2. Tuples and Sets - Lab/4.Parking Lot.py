@@ -11,4 +11,4 @@ if cars_parking:
     for car in cars_parking:
         print(car)
 else:
-    print("Parking Lot is Empty")
+    print("Parking Lot is Empty") 
